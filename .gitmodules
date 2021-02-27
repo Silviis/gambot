@@ -1,0 +1,3 @@
+[submodule "src/omniwheel_base"]
+	path = src/omniwheel_base
+	url = git@github.com:Silviis/omniwheel_base.git
