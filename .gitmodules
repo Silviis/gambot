@@ -1,3 +1,6 @@
 [submodule "src/omniwheel_base"]
 	path = src/omniwheel_base
 	url = git@github.com:Silviis/omniwheel_base.git
+[submodule "src/gambot_hardware_interface"]
+	path = src/gambot_hardware_interface
+	url = git@github.com:Silviis/gambot_hardware_interface.git
