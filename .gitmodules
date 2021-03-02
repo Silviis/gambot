@@ -4,3 +4,6 @@
 [submodule "src/gambot_hardware_interface"]
 	path = src/gambot_hardware_interface
 	url = git@github.com:Silviis/gambot_hardware_interface.git
+[submodule "src/gambot_base"]
+	path = src/gambot_base
+	url = git@github.com:Silviis/gambot_base.git
